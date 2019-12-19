@@ -1,0 +1,60 @@
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\AHPApp.exe.config
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\AHPApp.exe
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\AHPApp.pdb
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.csprojAssemblyReference.cache
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.Properties.Resources.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.csproj.GenerateResource.cache
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.csproj.CoreCompileInputs.cache
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.exe
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.pdb
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.TopicForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.DeleteConfirmation.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.MainForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.HelpDialog.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.pdb
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.csproj.CopyComplete
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.CriteriaForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.CriteriaRankingForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.PairwiseComparisonUserControl.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.AlternativeListForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.ResultForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.AddAlternativeForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.AddAlternativeUserControl.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.RegisterForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.LoginForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.ResultUserControl.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.ChangePasswordForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\obj\Debug\AHPApp.ViewUserForm.resources
+C:\Users\U525192\source\repos\AHPApp\AHPApp\bin\Debug\itextsharp.dll
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\bin\Debug\AHPApp.exe.config
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\bin\Debug\AHPApp.exe
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\bin\Debug\AHPApp.pdb
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.pdb
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.AddAlternativeForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.AddAlternativeUserControl.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.AlternativeListForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.ChangePasswordForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.CriteriaForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.CriteriaRankingForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.DeleteConfirmation.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.HelpDialog.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.LoginForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.MainForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.Properties.Resources.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.PairwiseComparisonUserControl.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.RegisterForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.ResultForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.ResultUserControl.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.TopicForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.ViewUserForm.resources
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.csproj.CopyComplete
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.exe
+C:\Users\USER\Desktop\Internship BCA\HASIL PROJEK MAGANG [TOMY]\APP FOR DECISION MAKING (ANALYTIC HIERARCHY PROCESS METHOD)\AHPApp\AHPApp\obj\Debug\AHPApp.pdb

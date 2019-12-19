@@ -1,0 +1,11 @@
+error
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Remove_sign_font_awesome.svg/600px-Remove_sign_font_awesome.svg.png
+
+errormark
+https://image.flaticon.com/icons/png/128/179/179386.png
+
+question & questionmark
+https://www.stickpng.com/img/icons-logos-emojis/question-marks/question-mark-in-circle
+
+warning		
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Warning_sign_font_awesome_white.svg/1113px-Warning_sign_font_awesome_white.svg.png

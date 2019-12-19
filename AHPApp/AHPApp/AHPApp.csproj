@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{95D9C67E-ABD9-4D99-B3A3-C2C334EBBC87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AHPApp</RootNamespace>
+    <AssemblyName>AHPApp</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\Downloads\itextsharp-all-5.5.10\itextsharp.xfaworker-dll-5.5.10\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\sqlite-netFx46-binary-bundle-Win32-2015-1.0.109.0\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\AlternativeListController.cs" />
+    <Compile Include="Controller\CriteriaController.cs" />
+    <Compile Include="Controller\CriteriaWeightController.cs" />
+    <Compile Include="Controller\Encryptor.cs" />
+    <Compile Include="Controller\ITextEvents.cs" />
+    <Compile Include="Controller\LoginController.cs" />
+    <Compile Include="Controller\RegisterController.cs" />
+    <Compile Include="Controller\ResultController.cs" />
+    <Compile Include="Controller\TwoColumnHeaderFooter.cs" />
+    <Compile Include="Controller\ViewUserController.cs" />
+    <Compile Include="Model\DetailAlternative.cs" />
+    <Compile Include="Controller\MainController.cs" />
+    <Compile Include="Controller\TopicController.cs" />
+    <Compile Include="Model\Criteria.cs" />
+    <Compile Include="Model\CriteriaWeight.cs" />
+    <Compile Include="Model\Topic.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="View\AddAlternativeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AddAlternativeForm.Designer.cs">
+      <DependentUpon>AddAlternativeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AddAlternativeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\AddAlternativeUserControl.Designer.cs">
+      <DependentUpon>AddAlternativeUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AlternativeListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AlternativeListForm.Designer.cs">
+      <DependentUpon>AlternativeListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ChangePasswordForm.Designer.cs">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CriteriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CriteriaForm.Designer.cs">
+      <DependentUpon>CriteriaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CriteriaWeightForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CriteriaWeightForm.Designer.cs">
+      <DependentUpon>CriteriaWeightForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\DeleteConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\DeleteConfirmation.Designer.cs">
+      <DependentUpon>DeleteConfirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\HelpDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\HelpDialog.Designer.cs">
+      <DependentUpon>HelpDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\PairwiseComparisonUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\PairwiseComparisonUserControl.Designer.cs">
+      <DependentUpon>PairwiseComparisonUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ResultForm.Designer.cs">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ResultUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\ResultUserControl.Designer.cs">
+      <DependentUpon>ResultUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\TopicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\TopicForm.Designer.cs">
+      <DependentUpon>TopicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ViewUserForm.Designer.cs">
+      <DependentUpon>ViewUserForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\AddAlternativeForm.resx">
+      <DependentUpon>AddAlternativeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AddAlternativeUserControl.resx">
+      <DependentUpon>AddAlternativeUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AlternativeListForm.resx">
+      <DependentUpon>AlternativeListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ChangePasswordForm.resx">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CriteriaForm.resx">
+      <DependentUpon>CriteriaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CriteriaWeightForm.resx">
+      <DependentUpon>CriteriaWeightForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\DeleteConfirmation.resx">
+      <DependentUpon>DeleteConfirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\HelpDialog.resx">
+      <DependentUpon>HelpDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\PairwiseComparisonUserControl.resx">
+      <DependentUpon>PairwiseComparisonUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ResultForm.resx">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ResultUserControl.resx">
+      <DependentUpon>ResultUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\TopicForm.resx">
+      <DependentUpon>TopicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ViewUserForm.resx">
+      <DependentUpon>ViewUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\AHPApp.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\AHPApp.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\DataModel.datasource" />
+    <None Include="Properties\DataSources\MainMenu.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\TopicForm.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

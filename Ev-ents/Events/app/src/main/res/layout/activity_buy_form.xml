@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.ev_ents.BuyFormActivity">
+
+    <Button
+        android:id="@+id/btnBuyTicket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtQuantity"
+        android:layout_marginTop="37dp"
+        android:text="Buy Ticket" />
+
+    <TextView
+        android:id="@+id/lblBuyForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="51dp"
+        android:text="Buy Form"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/txtEventID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/lblBuyForm"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:hint="Event ID"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/txtQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtEventID"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="Quantity"
+        android:inputType="number" />
+
+</RelativeLayout>

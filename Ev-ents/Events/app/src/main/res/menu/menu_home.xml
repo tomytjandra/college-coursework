@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.ev_ents.HomeActivity">
+    <item
+        android:id="@+id/itemHomePage"
+        android:orderInCategory="100"
+        android:title="Home Page"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemViewAllEvents"
+        android:orderInCategory="100"
+        android:title="View All Events"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemBuyForm"
+        android:orderInCategory="100"
+        android:title="Buy Form"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemLogout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>
